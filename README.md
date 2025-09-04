@@ -1,2 +1,2 @@
 # greenspace_accesibility
-Green Space analysis of the City of Phoenix
+The purpose of this project is to analyze green space accessibility in the City of Phoenix.  
